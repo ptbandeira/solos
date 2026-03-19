@@ -1,6 +1,6 @@
 {
   "name": "solos",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "solOS: Personal operating system for solo operators. Persistent memory across AI sessions, tiered retrieval, self-improving feedback loops, and structured daily workflows for people running multiple ventures without a team.",
   "author": {
     "name": "Pedro Bandeira"
